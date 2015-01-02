@@ -1,7 +1,7 @@
 This is example aplication for creating short url_adresses.
 </br>
 <p>Something like bit.ly or goo.gl but more simply.</p>
-	<h6>Created by essencelex.</h6>
+	<p>Created by essencelex.</p>
 
 
 
